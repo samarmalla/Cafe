@@ -1,1 +1,19 @@
+*{
+    background-color: azure;
+}
+
+#intro{
+    color:darkcyan
+}
+
+.pp{
+    color:chocolate
+}
+
+div>p{
+    color: darkgreen;
+}
+hr+p{
+    color: brown;
+}
 
